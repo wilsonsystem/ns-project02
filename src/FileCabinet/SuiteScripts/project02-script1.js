@@ -39,7 +39,7 @@
                    search.createFilter({
                      name:     'created', 
                      operator:  search.Operator.WITHIN,
-                     values:    'thismonth'       // Change the Time Critira 
+                     values:    'thisweek'       // Change the Time Critira 
                    })                
                    ],
                 
