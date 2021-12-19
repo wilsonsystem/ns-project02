@@ -9,13 +9,13 @@ In many Food and Grocery retail Industry, there are a huge volume of Point of Sa
 The Structure is based on SuiteCloud Development Framework, with following 3 major files: 
 
 (1) customrecord_sdr_main_product_table.xml 
-> Custom Record to store POS Raw data such as invoice#, QTY, Amount.
+Custom Record to store POS Raw data such as invoice#, QTY, Amount.
 
 (2) project02-script1.js  
-> Map/Reduce Script, To group and consolidate POS raw data to sales order by specific Time (i.e. Day), Sold Items and Location (i.e. Shop)
+Map/Reduce Script, To group and consolidate POS raw data to sales order by specific Time (i.e. Day), Sold Items and Location (i.e. Shop)
 
 (3) customscript_project02_script1.xml 
-> Record for Script Deportment
+Record for Script Deportment
 
 ---------------------------------------------------------------------------------------------------------
 
