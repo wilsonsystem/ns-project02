@@ -1,0 +1,15 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>project02</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">MULTILANGUAGE</feature>
+      <feature required="true">LOCATIONS</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+    </features>
+  </dependencies>
+</manifest>
